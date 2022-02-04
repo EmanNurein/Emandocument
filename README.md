@@ -1,9 +1,10 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Eman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eman-nurein-b9bb4636/)](hhttps://www.linkedin.com/in/eman-nurein-b9bb4636/)
+[![Website Badge](https://img.shields.io/badge/Quora-Eman-yellow)](https://www.quora.com/profile/Eman-A-Rahman-Nurein-Nurein-)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Eman-yellow)](https://stackoverflow.com/users/16310314/eman-a-rahman-nurein-nurein-)
 
 I'm
 Full Stack Solution Architect
