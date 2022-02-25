@@ -1,0 +1,38 @@
+.container{
+    width: 50%;
+    
+}
+
+.panel-heading{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}   
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn-success{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: dodgerblue;
+    font-size: 17px;
+}
+
+.center{
+    margin-left: 40%;
+    position: relative;
+}
+p{
+    font-size: 17px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ textarea {
+    width: 100%;
+    padding: 12px; 
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+
